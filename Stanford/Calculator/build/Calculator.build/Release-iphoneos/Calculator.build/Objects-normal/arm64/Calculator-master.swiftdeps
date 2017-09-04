@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a5500325e877b0496a4830696b09f8fb"
+build_time: [538392012, 569492000]
+inputs:
+  "/Users/sharad/Documents/iOS_Projects_Demo/swift_project_demo/Stanford/Calculator/calculatorBrain.swift": [9223372036854775807, 0]
+  "/Users/sharad/Documents/iOS_Projects_Demo/swift_project_demo/Stanford/Calculator/Calculator/ViewController.swift": [9223372036854775807, 0]
+  "/Users/sharad/Documents/iOS_Projects_Demo/swift_project_demo/Stanford/Calculator/Calculator/AppDelegate.swift": [9223372036854775807, 0]
